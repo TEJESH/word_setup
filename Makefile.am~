@@ -1,0 +1,2 @@
+bin_PROGRAMS = word1
+word_SOURCES = word.c
